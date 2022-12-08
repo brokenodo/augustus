@@ -200,8 +200,8 @@ static int has_devolve_delay(building *house, evolve_status status)
         house->data.house.devolve_delay++;
         return 1;
     } else {
-        house->data.house.devolve_delay = 0;
-        return 0;
+        house->data.house.devolve_delay = 1;
+        return 1;
     }
 }
 
