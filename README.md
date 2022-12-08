@@ -1,3 +1,10 @@
+This fork is intended to have additional changes that make the game easier to mindlessly play and build.
+
+Currently Implemented:
+
+--No housing devolution
+
+
 # Augustus ![](res/julius_48.png)
 
 [![Github Actions](https://github.com/Keriew/augustus/workflows/Build%20Augustus/badge.svg)](https://github.com/Keriew/Augustus/actions)
